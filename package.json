@@ -1,0 +1,16 @@
+{
+  "name": "nodeinstagram",
+  "version": "1.0.0",
+  "description": "tutorial to create an app with nodejs and Instagram API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josue Ximello Rios",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "instagram-node": "^0.5.8"
+  }
+}
